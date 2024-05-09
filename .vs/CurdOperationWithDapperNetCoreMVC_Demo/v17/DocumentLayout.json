@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CurdOperationWithDapperNetCoreMVC_Demo-master\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{28BB9C79-3832-4E5F-8AD4-373754348958}|CurdOperationWithDapperNetCoreMVC_Demo\\CurdOperationWithDapperNetCoreMVC_Demo.csproj|d:\\curdoperationwithdappernetcoremvc_demo-master\\curdoperationwithdappernetcoremvc_demo\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{28BB9C79-3832-4E5F-8AD4-373754348958}|CurdOperationWithDapperNetCoreMVC_Demo\\CurdOperationWithDapperNetCoreMVC_Demo.csproj|solutionrelative:curdoperationwithdappernetcoremvc_demo\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28BB9C79-3832-4E5F-8AD4-373754348958}|CurdOperationWithDapperNetCoreMVC_Demo\\CurdOperationWithDapperNetCoreMVC_Demo.csproj|d:\\curdoperationwithdappernetcoremvc_demo-master\\curdoperationwithdappernetcoremvc_demo\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28BB9C79-3832-4E5F-8AD4-373754348958}|CurdOperationWithDapperNetCoreMVC_Demo\\CurdOperationWithDapperNetCoreMVC_Demo.csproj|solutionrelative:curdoperationwithdappernetcoremvc_demo\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28BB9C79-3832-4E5F-8AD4-373754348958}|CurdOperationWithDapperNetCoreMVC_Demo\\CurdOperationWithDapperNetCoreMVC_Demo.csproj|d:\\curdoperationwithdappernetcoremvc_demo-master\\curdoperationwithdappernetcoremvc_demo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{28BB9C79-3832-4E5F-8AD4-373754348958}|CurdOperationWithDapperNetCoreMVC_Demo\\CurdOperationWithDapperNetCoreMVC_Demo.csproj|solutionrelative:curdoperationwithdappernetcoremvc_demo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28BB9C79-3832-4E5F-8AD4-373754348958}|CurdOperationWithDapperNetCoreMVC_Demo\\CurdOperationWithDapperNetCoreMVC_Demo.csproj|d:\\curdoperationwithdappernetcoremvc_demo-master\\curdoperationwithdappernetcoremvc_demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28BB9C79-3832-4E5F-8AD4-373754348958}|CurdOperationWithDapperNetCoreMVC_Demo\\CurdOperationWithDapperNetCoreMVC_Demo.csproj|solutionrelative:curdoperationwithdappernetcoremvc_demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "D:\\CurdOperationWithDapperNetCoreMVC_Demo-master\\CurdOperationWithDapperNetCoreMVC_Demo\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "CurdOperationWithDapperNetCoreMVC_Demo\\Controllers\\ProductsController.cs",
+              "ToolTip": "D:\\CurdOperationWithDapperNetCoreMVC_Demo-master\\CurdOperationWithDapperNetCoreMVC_Demo\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "CurdOperationWithDapperNetCoreMVC_Demo\\Controllers\\ProductsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T11:57:41.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\CurdOperationWithDapperNetCoreMVC_Demo-master\\CurdOperationWithDapperNetCoreMVC_Demo\\Views\\Products\\Index.cshtml",
+              "RelativeDocumentMoniker": "CurdOperationWithDapperNetCoreMVC_Demo\\Views\\Products\\Index.cshtml",
+              "ToolTip": "D:\\CurdOperationWithDapperNetCoreMVC_Demo-master\\CurdOperationWithDapperNetCoreMVC_Demo\\Views\\Products\\Index.cshtml",
+              "RelativeToolTip": "CurdOperationWithDapperNetCoreMVC_Demo\\Views\\Products\\Index.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAABsAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-08T11:33:04.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\CurdOperationWithDapperNetCoreMVC_Demo-master\\CurdOperationWithDapperNetCoreMVC_Demo\\appsettings.json",
+              "RelativeDocumentMoniker": "CurdOperationWithDapperNetCoreMVC_Demo\\appsettings.json",
+              "ToolTip": "D:\\CurdOperationWithDapperNetCoreMVC_Demo-master\\CurdOperationWithDapperNetCoreMVC_Demo\\appsettings.json",
+              "RelativeToolTip": "CurdOperationWithDapperNetCoreMVC_Demo\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-08T11:01:53.938Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\CurdOperationWithDapperNetCoreMVC_Demo-master\\CurdOperationWithDapperNetCoreMVC_Demo\\Program.cs",
+              "RelativeDocumentMoniker": "CurdOperationWithDapperNetCoreMVC_Demo\\Program.cs",
+              "ToolTip": "D:\\CurdOperationWithDapperNetCoreMVC_Demo-master\\CurdOperationWithDapperNetCoreMVC_Demo\\Program.cs",
+              "RelativeToolTip": "CurdOperationWithDapperNetCoreMVC_Demo\\Program.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T10:48:20.531Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

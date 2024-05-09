@@ -1,0 +1,6 @@
+D:\DATA\Downloads\CurdOperationWithDapperNetCoreMVC_Demo-master\database\bin\Debug\database.dacpac
+D:\DATA\Downloads\CurdOperationWithDapperNetCoreMVC_Demo-master\database\bin\Debug\database.dll
+D:\DATA\Downloads\CurdOperationWithDapperNetCoreMVC_Demo-master\database\bin\Debug\database.pdb
+D:\DATA\Downloads\CurdOperationWithDapperNetCoreMVC_Demo-master\database\obj\Debug\database.sqlproj.AssemblyReference.cache
+D:\DATA\Downloads\CurdOperationWithDapperNetCoreMVC_Demo-master\database\obj\Debug\database.dll
+D:\DATA\Downloads\CurdOperationWithDapperNetCoreMVC_Demo-master\database\obj\Debug\database.pdb
